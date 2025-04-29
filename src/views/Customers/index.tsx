@@ -14,7 +14,7 @@ const columns = [
   },
   {
     field: "email",
-    headerName: "Email",
+    headerName: "Emaill",
     width: 200,
   },
   {
