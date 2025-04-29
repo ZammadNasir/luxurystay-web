@@ -1,0 +1,96 @@
+@font-face {
+  font-family: 'Roboto-Black';
+  src: url('assets/fonts/Roboto/Roboto-Black.ttf');
+}
+
+@font-face {
+  font-family: 'Roboto-Bold';
+  src: url('assets/fonts/Roboto/Roboto-Bold.ttf');
+}
+
+@font-face {
+  font-family: 'Roboto-Medium-Italic';
+  src: url('assets/fonts/Roboto/Roboto-Medium-Italic.ttf');
+}
+
+@font-face {
+  font-family: 'Roboto-Condensed-Bold';
+  src: url('assets/fonts/Roboto/Roboto-Condensed-Bold.ttf');
+}
+
+@font-face {
+  font-family: 'Roboto-Condensed-Medium';
+  src: url('assets/fonts/Roboto/Roboto-Condensed-Medium.ttf');
+}
+
+@font-face {
+  font-family: 'Roboto-Condensed-Regular';
+  src: url('assets/fonts/Roboto/Roboto-Condensed-Regular.ttf');
+}
+
+@font-face {
+  font-family: 'Roboto-Italic';
+  src: url('assets/fonts/Roboto/Roboto-Italic.ttf');
+}
+
+@font-face {
+  font-family: 'Roboto-Medium';
+  src: url('assets/fonts/Roboto/Roboto-Medium.ttf');
+}
+
+@font-face {
+  font-family: 'Roboto-Regular';
+  src: url('assets/fonts/Roboto/Roboto-Regular.ttf');
+}
+
+body {
+  background-color: #fff;
+  font-family: 'Roboto-Regular' !important;
+}
+
+p,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    margin: 0px !important;
+    font-family: 'Roboto-Regular' !important;
+}
+
+.Roboto-Black {
+    font-family: 'Roboto-Black' !important;
+}
+
+.Roboto-Bold {
+    font-family: 'Roboto-Bold' !important;
+}
+
+.Roboto-Condensed-Bold {
+    font-family: 'Roboto-Condensed-Bold' !important;
+}
+
+.Roboto-Condensed-Medium {
+    font-family: 'Roboto-Condensed-Medium' !important;
+}
+
+.Roboto-Condensed-Regular {
+    font-family: 'Roboto-Condensed-Regular' !important;
+}
+
+.Roboto-Italic {
+    font-family: 'Roboto-Italic' !important;
+}
+
+.Roboto-Medium {
+    font-family: 'Roboto-Medium' !important;
+}
+
+.Roboto-Regular {
+    font-family: 'Roboto-Regular' !important;
+}
+
+.Roboto-Medium-Italic {
+    font-family: 'Roboto-Medium-Italic' !important;
+}
