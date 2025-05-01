@@ -112,7 +112,7 @@ export default function MyReservation() {
                     {moment(reservation?.checkOutDate).format("DD.MM.YYYY")}
                   </p>
                   <p>
-                    <strong>Price:</strong> ${reservation?.totalBill}
+                    <strong>Price:</strong> PKR {reservation?.totalBill}
                   </p>
                   <Button
                     onClick={() => cancelReservation(reservation?.id)}
